@@ -8,6 +8,10 @@ Welcome to the Awesome Restaurant UI project! This project aims to create a beau
 - CSS3
 - Flexbox & Grid Layout
 
+## Screenshot
+
+![image](https://github.com/JeremiahRanen7/Restaurant-UI/assets/141173239/91754afc-0e95-45e5-ba00-e326f456e796)
+
 ## Usage
 
 1. Clone this repository.
